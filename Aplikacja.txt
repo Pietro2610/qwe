@@ -2,10 +2,11 @@
         System.out.println("Podaj nazwe użytkownik");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
 
    public void logowanie_microsoft() {
         System.out.println("Podaj nazwę konta microsoft");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }
+    
+   public void przypomnijhaslo() {
+        System.out.println("Kliknij przycisk przypomnij hasło");
