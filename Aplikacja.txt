@@ -11,4 +11,3 @@
    public void przypomnijhaslo() {
         System.out.println("Kliknij przycisk przypomnij hasło");
 
-        uterhygbqph4gunb[
